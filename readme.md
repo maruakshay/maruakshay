@@ -53,7 +53,7 @@ My first principle is building from scratch to understand the core—from MLOps 
 
 ## 🚀 Featured Projects
 
-### 🤖 [Miii — Local AI Assistant](https://github.com/maruakshay/miii)
+### 🤖 [Miii — Local AI Assistant](https://github.com/maruakshay/miii) · Open Source
 **The privacy-first AI agent.** A fully on-device assistant with agentic workflows. No cloud, no latency, no API keys. Built for those who want GPT-level intelligence without sacrificing their data.
 `Ollama` `LangGraph` `Python` `Local-First`
 
@@ -65,7 +65,7 @@ My first principle is building from scratch to understand the core—from MLOps 
 **The armor for your LLMs.** Production-ready security skill packs to prevent prompt injections and RAG leakage. Installable via `npx miii-security add <skill>`.
 `AI Security` `Adversarial Robustness` `LangChain` `LlamaIndex`
 
-### 🌐 [AI Portfolio Assistant](https://github.com/maruakshay/portfolio)
+### 🌐 [AI Portfolio Assistant](https://github.com/maruakshay/portfolio) · Open Source
 **Interactive Experience.** Why read a CV when you can chat with a digital twin? A real-time AI interface that knows my entire history and project depth.
 `Next.js` `OpenAI` `TypeScript` `Vercel`
 
