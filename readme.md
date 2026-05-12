@@ -1,7 +1,7 @@
-<h1 align="center">Akshay Maru</h1>
+<h1 align="center">🚀 Akshay Maru</h1>
 
 <p align="center">
-  <strong>AI Product Engineer · LLM Systems · AI Security</strong>
+  <strong style="font-size: 1.2em;">AI Product Engineer · LLM Systems · AI Security</strong>
 </p>
 
 <p align="center">
@@ -10,82 +10,70 @@
   <a href="mailto:maruakshay4@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
-
-## About
-
-I build AI systems that work in the real world — not just in demos.
-
-My focus is the gap between *impressive AI* and *reliable AI*: systems that handle edge cases gracefully, run efficiently at scale, and can be trusted by users who depend on them. I combine LLM engineering with strong product thinking to ship AI features that actually move metrics.
-
-Currently exploring: **agentic workflows**, **local-first AI**, and **AI security**.
+<p align="center">
+  <i>Building the bridge between impressive AI demos and reliable production systems.</i>
+</p>
 
 ---
 
-## What I Build
+## ⚡ Quick Byte
 
-| Area | What it means in practice |
-|------|--------------------------|
-| **Reliable LLM Systems** | RAG pipelines with grounding, hallucination mitigation, eval harnesses |
-| **Agentic Workflows** | Multi-step agents with LangGraph, tool use, memory, and state management |
-| **Local-First AI** | On-device models via Ollama — private, fast, no API costs |
-| **AI Security** | Prompt injection defense, adversarial robustness, safe outputs |
-| **AI-Powered Products** | End-to-end features from model to UI with Next.js + React |
+I don't just build AI; I build <b>reliable</b> AI. While the world focuses on prompt engineering, I focus on the <b>reliability layer</b>: grounding, hallucination mitigation, and adversarial robustness. I ship AI features that don't just look cool in a video, but actually move business metrics and earn user trust.
+
+Currently obsessing over: <b>Agentic Workflows</b>, <b>Local-First Intelligence</b>, and <b>AI Red-Teaming</b>.
+
+My first principle is building from scratch to understand the core—from MLOps to AIOps—and my end goal is creating high-impact open-source contributions that empower the global AI community.
 
 ---
 
-## Stack
+## 🛠️ Engineering Arsenal
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**AI / ML**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-**Web & Infrastructure**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+| Area | My Approach |
+| :--- | :--- |
+| **Reliable LLM Systems** | RAG pipelines with strict grounding and automated eval harnesses. |
+| **Agentic Workflows** | State-aware agents using LangGraph for complex, multi-step reasoning. |
+| **Local-First AI** | Privacy-centric on-device models via Ollama (Zero latency, Zero API costs). |
+| **AI Security** | Hardening LLMs against prompt injection and data leakage. |
+| **AI Products** | Full-stack implementation from GPU kernels to Next.js frontends. |
 
 ---
 
-## Projects
+## 💻 Tech Stack
 
-### [Miii — Local AI Assistant](https://github.com/maruakshay/miii)
-A fully on-device AI assistant with agentic workflows. No cloud, no latency, no API keys required. Built for privacy-conscious users who want real AI capability without sending data to external servers.
+**Core Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
+**AI / Machine Learning**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**Infrastructure & Web**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 [Miii — Local AI Assistant](https://github.com/maruakshay/miii)
+**The privacy-first AI agent.** A fully on-device assistant with agentic workflows. No cloud, no latency, no API keys. Built for those who want GPT-level intelligence without sacrificing their data.
 `Ollama` `LangGraph` `Python` `Local-First`
 
----
+### 🐚 [Miii CLI — The Local AI Shell](https://github.com/maruakshay/miii-cli) · Open Source
+**Your terminal, supercharged.** Bring LLMs directly into your shell. Automate boring tasks, query logs, and get instant intelligence without ever leaving the terminal.
+`CLI` `Local AI` `TypeScript` `Developer Experience`
 
-### [AI Portfolio Assistant](https://github.com/maruakshay/portfolio)
-An interactive portfolio with a real-time AI chat interface. Visitors can have a conversation with an AI that knows my background, projects, and experience — a better first impression than a static page.
+### 🛡️ [mii-ai-security](https://github.com/maruakshay/mii-ai-security) · Open Source
+**The armor for your LLMs.** Production-ready security skill packs to prevent prompt injections and RAG leakage. Installable via `npx miii-security add <skill>`.
+`AI Security` `Adversarial Robustness` `LangChain` `LlamaIndex`
 
+### 🌐 [AI Portfolio Assistant](https://github.com/maruakshay/portfolio)
+**Interactive Experience.** Why read a CV when you can chat with a digital twin? A real-time AI interface that knows my entire history and project depth.
 `Next.js` `OpenAI` `TypeScript` `Vercel`
 
 ---
 
-### [mii-ai-security](https://github.com/maruakshay/mii-ai-security) · Open Source
-Security skill packs for hardening LLM systems in production. Covers prompt injection defense, RAG security, tool execution safety, data leakage prevention, and AI governance — across LangChain, LlamaIndex, Haystack, DSPy, and more. 18 structured skills, installable via `npx miii-security add <skill>`.
+## 📈 Impact
 
-`AI Security` `Prompt Injection` `RAG Security` `LangChain` `LlamaIndex` `MIT`
-
----
-
-## Impact
-
-```
+```text
 40,000+   users across products I've built
 25+       countries reached
 60%       latency reduction in AI pipelines
@@ -94,11 +82,11 @@ Security skill packs for hardening LLM systems in production. Covers prompt inje
 
 ---
 
-## Philosophy
+## 🧠 Philosophy
 
-> **AI is only useful if you can trust it.**
+> **"AI is only useful if you can trust it."**
 
-The bottleneck in most AI products isn't the model — it's trust. I build the reliability layer: evals, grounding, guardrails, and careful product design that earns user trust over time.
+The gap between a demo and a product is **Trust**. I build the reliability layer—the evals, the guardrails, and the grounding—that turns a probabilistic model into a dependable tool.
 
 ---
 
